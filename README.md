@@ -1,2 +1,2 @@
 #demo
-makememories tes demo
+makememories test demo
